@@ -2,6 +2,8 @@
 
 no step , no miles
 
+只是看书，写了书中的一些例子，并没有系统的去整理`scheme`。
+
 1. 只是本人写了一些《计算机程序的构造和解释》中的一些例子
 2. .lisp文件执行，需要slicp
 3. .ss文件执行，需要chezscheme
