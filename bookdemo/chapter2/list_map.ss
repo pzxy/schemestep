@@ -2,7 +2,7 @@
 ;将list中数据放大10倍
 (define (scale-list items factor)
     (if (null? items)
-        nil
+        '() ;表示一个nil
         (cons (* (car items) factor)
             (scale-list (cdr items) factor))))
 
